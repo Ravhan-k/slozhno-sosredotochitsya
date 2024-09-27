@@ -22,8 +22,11 @@ ct/*
 
 
 
-@media (prefers-color-scheme: light) {}
-  :root {
+@media (prefers-color-scheme: light) {
+
+}
+
+:root {
   --main-title-color: #FFC2E6;
   --background-color: #FFF1F7;
   --subtitle-color: #353430;
@@ -36,9 +39,8 @@ ct/*
   --text-link-state: #353430;
   --menu-general: #353430;
   --menu-outline: rgba(50, 49, 45, 0.40);
-
-  
 }
+
 
 
 

@@ -19,18 +19,3 @@
   --menu-outline: rgba(255, 0, 112, 0.40);
  
 }
-
-:root.theme-dark {
-  --main-title-color: #DB00FF;
-  --background-color: #000028;
-  --subtitle-color: #000028;
-  --main-text-color: #F1B2CE;
-  --text-background-color: #FF0070;
-  --section-title: #FF0070;
-  --background-image: url(../images/cover-image-dark.png);
-  --content-rec: "REC";
-  --content-circle: "";
-  --text-link-state: #F1B2CE;
-  --menu-general: #FF0070;
-  --menu-outline: rgba(255, 0, 112, 0.40);
-}
