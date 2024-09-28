@@ -3,18 +3,16 @@
   и их переопределение под различные устройства
 */
 :root {
-  --main-title-color: #DB00FF;
+  --main-title-color: #db00ff;
   --background-color: #000028;
-  --main-text-color: #F1B2CE;
-  --text-background-color: #FF0070;
+  --main-text-color: #f1b2ce;
+  --text-background-color: #ff0070;
   --subtitle-color: #353430;
-  --section-title: #FF0070;
+  --section-title: #ff0070;
   --content-rec: "REC";
   --content-circle: "";
-  --text-link-state: #F1B2CE;
-  --menu-general: #FF0070;
-  --menu-outline: rgba(255, 0, 112, 0.40);
+  --text-link-state: #f1b2ce;
+  --menu-general: #ff0070;
+  --menu-outline: rgba(255, 0, 112, 0.4);
   --background-image: url(../images/cover-image-dark.png);
-} 
-
-
+}

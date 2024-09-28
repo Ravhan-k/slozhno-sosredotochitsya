@@ -4,9 +4,8 @@
 *::before,
 *::after {
   box-sizing: border-box;
-  font-family: "IBM Plex Mono", sans-serif;
+  font-family: "IBM Plex Mono", monospace;
 }
-
 
 body {
   min-inline-size: 375px;
